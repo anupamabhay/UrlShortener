@@ -20,5 +20,4 @@ public class linkShortener {
         String shortUrl = jObj.get("result_url").toString();
         System.out.println("Short url: "+shortUrl);
     }
-
 }
